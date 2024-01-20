@@ -1,0 +1,1 @@
+simplismente depositando alguns arquivos no github pages para uso remoto
